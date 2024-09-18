@@ -6,7 +6,9 @@ const Main = () => {
     <>
     <Header/>
     <main>
-      <p>Este es el contenido principal de la aplicación.</p>
+      <p>Este es el contenido principal de la aplicación 1.</p>
+      <p>Este es el contenido principal de la aplicación 2.</p>
+      <p>Este es el contenido principal de la aplicación 3.</p>
     </main>
     </>
   );
