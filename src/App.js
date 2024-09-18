@@ -1,11 +1,13 @@
 import logo from './logo.svg';
 import './App.css';
 import Main from './components/Main';
+import Footer from './components/Footer';  // Importa Footer
 
 function App() {
   return (
     <div className="App">
       <Main />     {/* Componente Main */}
+      <Footer />   {/* Componente Footer */}
     </div>
   );
 }
