@@ -3,7 +3,9 @@ import React from 'react';
 const Main = () => {
   return (
     <main>
-      <p>Este es el contenido principal de la aplicación.</p>
+      <p>Este es el contenido principal de la aplicación 1.</p>
+      <p>Este es el contenido principal de la aplicación 2.</p>
+      <p>Este es el contenido principal de la aplicación 3.</p>
     </main>
   );
 };
